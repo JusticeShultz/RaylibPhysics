@@ -1,4 +1,4 @@
-# thirdparty
+﻿# thirdparty
 
 Third-party dependencies and their licenses are reproduced in full below.
 
@@ -54,5 +54,33 @@ The following fonts [provided with raylib](https://github.com/raysan5/raylib/tre
 ---------
 
 [medieval city 3d models and textures](https://github.com/raysan5/raylib/tree/master/examples/models/resources/medieval) have been created by Alberto Cano and licensed as [Creative Commons Attribution-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+
+```
+
+## glm
+
+```text
+================================================================================
+The MIT License
+--------------------------------------------------------------------------------
+Copyright (c) 2005 - 2014 G-Truc Creation
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
 
 ```
