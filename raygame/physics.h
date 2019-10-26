@@ -1,5 +1,7 @@
 #pragma once
+
 #include "glm/glm.hpp"
+#include "shapes.h"
 
 class physObject
 {
@@ -12,10 +14,17 @@ public:
 	float mass;
 	float drag;
 
+	shape collider;
+
 	void tickPhys(float delta);
 	void draw() const;
 
 	void addForce(glm::vec2 force);
+	void addImpulse(glm::vec2 impulse);
+	void addAccel(glm::vec2 accel);
+	void addVelocityChange(glm::vec2 delta);
+
+	bool isCircle = false;
 
 	physObject() 
 	{
